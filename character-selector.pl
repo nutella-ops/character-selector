@@ -1,5 +1,5 @@
 #!/bin/perl
 
 
-open LIST, 'visual-html2.txt';
+open LIST, 'res/visual-html2.txt';
 print <LIST>
